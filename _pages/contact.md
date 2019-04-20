@@ -4,7 +4,6 @@ subtitle: Personal comes with a built-in contact form that's free and easy to se
   up.
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: "/images/demo/contact.jpg"
-published: false
 
 ---
 {% include contact-form.html %}
