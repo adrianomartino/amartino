@@ -1,6 +1,7 @@
 ---
 label: Portfolio Item
 hide_body: false
+display_field: gallery
 fields:
 - type: image_gallery
   label: Gallery
