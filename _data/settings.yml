@@ -39,7 +39,7 @@ social_settings:
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
-  vimeo_url: ''
+  vimeo_url: 'https://vimeo.com/amartino'
   pinterest_url: ''
   medium_url: ''
   quora_url: ''
@@ -58,7 +58,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/adrianomartino/'
 
 color_settings:
   background_color: '#ffffff'
