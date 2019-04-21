@@ -14,7 +14,7 @@ menu_settings:
       url: '/blog/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
+    - title: 'Get in Touch'
       url: '/contact'
 
 footer_settings:
