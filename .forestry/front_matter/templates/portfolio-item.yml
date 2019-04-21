@@ -1,4 +1,9 @@
 ---
 label: Portfolio Item
 hide_body: false
-fields: []
+fields:
+- type: image_gallery
+  label: Gallery
+  name: gallery
+  description: Upload gallery photos
+- type: include
