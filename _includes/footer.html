@@ -5,8 +5,8 @@
 		<p class="footer__text">{{ site.data.settings.footer_settings.footer_tagline }}</p>
 
 		<div class="footer__copyright">
-			<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>
-			<a href="https://adrianomartino.com" target="_blank">adrianomartino.com</a>
+			<span>© {{ 'now' | date: "%Y" }} <a href="https://adrianomartino.com"> {{ site.data.settings.basic_settings.site_title }}</a></span>
+			
 		</div>
 
 		{% include socials.html %}
