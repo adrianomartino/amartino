@@ -18,10 +18,10 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: "© 2019 Adriano Martino, Philadelphia. I'm an on-demand brand and video creative. I'm the owner of Martino Branding, Storyperk, Eventcut, and Cameramatch"
 
 hero_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.7
 
 post_settings:
   grid_spacing: 10
