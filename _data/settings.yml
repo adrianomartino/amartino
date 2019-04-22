@@ -12,9 +12,9 @@ menu_settings:
 #      url: '/'
     - title: 'Learn'
       url: '/learn/'
-    - title: 'Get to know me'
+    - title: 'Me'
       url: '/about'
-    - title: "Let's Talk"
+    - title: "Interact"
       url: '/contact'
 
 footer_settings:
