@@ -8,3 +8,5 @@ fields:
   name: gallery
   description: Upload gallery photos
 - type: include
+pages:
+- _posts/Adriano Test.md
