@@ -9,4 +9,4 @@ fields:
   description: Upload gallery photos
 - type: include
 pages:
-- _posts/Adriano Test.md
+- _posts/2019-04-22-Adriano Test.md
