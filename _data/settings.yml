@@ -10,8 +10,8 @@ menu_settings:
   menu_items:
     - title: 'Experiences'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Learn'
+      url: '/learn/'
     - title: 'About'
       url: '/about'
     - title: "Let's Talk"
