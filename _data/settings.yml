@@ -14,7 +14,7 @@ menu_settings:
       url: '/blog/'
     - title: 'Know Me'
       url: '/about'
-    - title: "Hit me up"
+    - title: "Hit Me Up"
       url: '/contact'
 
 footer_settings:
