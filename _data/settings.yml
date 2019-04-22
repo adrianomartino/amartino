@@ -11,7 +11,7 @@ menu_settings:
 #    - title: 'Experiences'
 #      url: '/'
     - title: 'Learn Video'
-      url: '/learn/'
+      url: '/blog/'
     - title: 'Know Me'
       url: '/about'
     - title: "Hit me up"
