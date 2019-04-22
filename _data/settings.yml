@@ -8,11 +8,11 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Experiences'
-      url: '/'
+#    - title: 'Experiences'
+#      url: '/'
     - title: 'Learn'
       url: '/learn/'
-    - title: 'About'
+    - title: 'Get to know me'
       url: '/about'
     - title: "Let's Talk"
       url: '/contact'
