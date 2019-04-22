@@ -1,0 +1,36 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: subtitle
+  label: Subtitle
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Description
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+- type: text
+  name: featured_image
+  label: Featured Image
+  description: Enter Image URL
+  config:
+    required: true
+- type: textarea
+  name: body
+  label: body
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
