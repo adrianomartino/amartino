@@ -1,8 +1,9 @@
 ---
 title: Video Producer with Marketing Expertise
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
+subtitle: Woah! It's been 12+ years that I've been helping businesses with my creativity.
+  Let's keep it going!
 description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: "/images/demo/about.jpg"
+featured_image: https://res.cloudinary.com/martinobranding/image/upload/v1555965383/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg
 
 ---
 ## Features
