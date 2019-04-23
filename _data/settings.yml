@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: "I'm an on-demand brand and video creative. I'm the owner of Martino Branding, Storyperk, Eventcut, and Cameramatch"
+  footer_tagline: "I'm an on-demand brand and video creative. I'm the owner of Martino Branding, Storyperk, Eventcut, and Cameramatch."
 
 hero_settings:
   overlay_opacity: 0.7
