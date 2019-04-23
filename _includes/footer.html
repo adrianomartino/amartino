@@ -3,9 +3,12 @@
 	<div class="wrap">
 		
 		<!-- related posts -->
-                {% for p in site.related_posts %}
+                {% if p in site.related_posts %}
+		<h3>You may also like:</h3>
+		{% for p in site.related_posts %}
                  {{ p.title }}
                 {% endfor %}
+		{% endif %}
 
 		<p class="footer__text">{{ site.data.settings.footer_settings.footer_tagline }}</p>
 
