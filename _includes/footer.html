@@ -1,15 +1,6 @@
 <footer class="footer">
 
 	<div class="wrap">
-		
-		
-                {% if page.is_post %}
-		<!-- related posts -->
-		<h3>You may also like:</h3>
-		{% for p in site.related_posts %}
-                 {{ p.title }}
-                {% endfor %}
-		{% endif %}
 
 		<p class="footer__text">{{ site.data.settings.footer_settings.footer_tagline }}</p>
 
