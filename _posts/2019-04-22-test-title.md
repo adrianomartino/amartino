@@ -1,9 +1,9 @@
 ---
-title: Video Production Budgets. Choose your weapon.
-subtitle: How much money is too much money, and what are your options?
-description: There are many elements to consider when producing video content. In
-  this article, I talk to you about 3 approaches as a starting reference point, on
-  how to choose the right budget/effort ratio for your project.
+title: Invest smartly in video. Pick one of these 3 different approaches.
+subtitle: Full Productions, DYI, or Consulting? What's the best fit for you?
+description: Today, you can produce effective videos with virtually no budget, and
+  you can publish disengaging videos that cost you hundreds of thousands. Here are
+  3 different approaches to start with video, depending on your current needs.
 featured_image: https://res.cloudinary.com/martinobranding/image/upload/v1555965383/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg
 body: test body
 date: 2019-04-22 22:18:57 +0000
