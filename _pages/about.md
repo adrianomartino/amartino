@@ -6,7 +6,7 @@ description: Personal is the perfect theme for developers, designers and other c
 featured_image: https://res.cloudinary.com/martinobranding/image/upload/v1555965383/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg
 
 ---
-## 12+ Years of Creative Marketing Expertise
+## Hey there! You are not here by chance.
 
 I have being working as a creative marketer since 2006, first within agencies, then as an independent. In 2012, I made a strategic decision to focus on commercial video production within the context of branding and marketing. That decision was based on a realization that good marketing does not exist without good video production and, likewise, good commercial video production is not possible without a strong foundational grounding in brand strategy.
 
