@@ -1,5 +1,5 @@
 ---
-title: 'Video Production and the war on budgets. '
+title: Video Production Processes and Budgets. Choose your weapon.
 subtitle: How much money is too much money, and what are your options?
 description: There are many elements to consider when producing video content. In
   this article, I talk to you about 3 approaches as a starting reference point, on
