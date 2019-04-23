@@ -17,7 +17,7 @@ There are many elements you need to consider when producing video content.
 
 Today, you have plenty of options, and you can produce video content with any budget.
 
-### **Is the amount of money spent in video proportioned to success?**
+### **Is the amount of money spent on video proportioned to success?**
 
 NO. Nowadays, You can produce engaging content with no budget. You can also produce disengaging content while spending hundreds of thousands of dollars.
 
