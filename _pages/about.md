@@ -8,57 +8,65 @@ featured_image: https://res.cloudinary.com/martinobranding/image/upload/v1555965
 ---
 ## Hey there! You are not here by chance.
 
-> Good branding doesn't exist without good video. Good video content doesn't happen without a brand strategy.
+<blockquote>Good branding doesn't exist without good video. Good video content doesn't happen without a brand strategy.&nbsp;</blockquote>
 
-Over the past 12+ years I spent the first 6 years working on the creative direction of entire projects. In 2012 I made the strategic decision to focus on video productions for brands.
+<p>Over the past 12+ years I spent the first 6 years working on the creative direction of entire projects. In 2012 I made the strategic decision to focus on video productions for brands.</p>
 
-Before shifting my focus towards video I used to work on:
+<p>Before shifting my focus towards video I used to work on:</p>
 
-\*   Naming
+<ul>
 
-\*   Logos and Designs
+  <li>Naming</li>
 
-\*   Tone of voice
+  <li>Logos and Designs</li>
 
-\*   Brand positioning
+  <li>Tone of voice</li>
 
-\*   Distribution strategies
+  <li>Brand positioning</li>
 
-\*   Print and digital design
+  <li>Distribution strategies</li>
 
-\*   Photography
+  <li>Print and digital design</li>
 
-\*   Copywriting
+  <li>Photography</li>
 
-\*   Art direction
+  <li>Copywriting</li>
 
-\*   Engagement strategies
+  <li>Art direction</li>
 
-My commercial filmmaking experience includes:
+  <li>Engagement strategies</li>
 
-\*   Research & Discovery
+</ul>
 
-\*   Screenwriting
+<p>My commercial filmmaking experience includes:</p>
 
-\*   Casting
+<ul>
 
-\*   Creative Direction
+  <li>Research &amp; Discovery</li>
 
-\*   Direction
+  <li>Screenwriting</li>
 
-\*   Direction of Photography
+  <li>Casting</li>
 
-\*   Filming and Interviewing
+  <li>Creative Direction</li>
 
-\*   Coaching non-actors
+  <li>Direction</li>
 
-\*   Selecting and directing music
+  <li>Direction of Photography</li>
 
-\*   Video Editing
+  <li>Filming and Interviewing</li>
 
-\*   Color Correction and Color Grading
+  <li>Coaching non-actors</li>
 
-\*   Compositing
+  <li>Selecting and directing music</li>
+
+  <li>Video Editing</li>
+
+  <li>Color Correction and Color Grading</li>
+
+  <li>Compositing</li>
+
+</ul>
 
 Over the years I had the opportunity to work in a variety of industries including:
 
