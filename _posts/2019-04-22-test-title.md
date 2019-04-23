@@ -1,6 +1,6 @@
 ---
-title: Test title
-subtitle: Test Subtitle
+title: 'Video Production and the war on budgets. '
+subtitle: How much money is too much money, and what are your options?
 description: Test description
 featured_image: https://res.cloudinary.com/martinobranding/image/upload/v1555965383/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg
 body: test body
