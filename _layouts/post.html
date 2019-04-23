@@ -27,6 +27,10 @@ layout: default
 
 		</article>
 
+		<!-- related posts -->
+		{% for p in site.related_posts %}
+                 {{ p.title }}
+                {% endfor %}
 	</div>
 
 </section>
