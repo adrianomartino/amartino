@@ -6,8 +6,6 @@ description: Personal is the perfect theme for developers, designers and other c
 featured_image: https://res.cloudinary.com/martinobranding/image/upload/v1555965383/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg
 
 ---
-## Hey there! You are not here by chance.
-
 <blockquote>Good branding doesn't exist without good video. Good video content doesn't happen without a brand strategy.&nbsp;</blockquote>
 
 <p>Over the past 12+ years I spent the first 6 years working on the creative direction of entire projects. In 2012 I made the strategic decision to focus on video productions for brands.</p>
