@@ -8,11 +8,57 @@ featured_image: https://res.cloudinary.com/martinobranding/image/upload/v1555965
 ---
 ## Hey there! You are not here by chance.
 
-I have being working as a creative marketer since 2006, first within agencies, then as an independent. In 2012, I made a strategic decision to focus on commercial video production within the context of branding and marketing. That decision was based on a realization that good marketing does not exist without good video production and, likewise, good commercial video production is not possible without a strong foundational grounding in brand strategy.
+> Good branding doesn't exist without good video. Good video content doesn't happen without a brand strategy.
 
-My creative marketing experiences includes discussing and implementing brand names and designs, brand guidelines, brand positioning, distribution strategies, print and digital design, photography, copywriting, art direction, and engagement strategies.
+Over the past 12+ years I spent the first 6 years working on the creative direction of entire projects. In 2012 I made the strategic decision to focus on video productions for brands.
 
-My commercial filmmaking experience includes R&D, creative, casting, location scouting, gear selection, direction, direction of photography, filming and interviewing, coaching non-actors, selecting and directing music, editing, color correction, color grading, compositing.
+Before shifting my focus towards video I used to work on:
+
+\*   Naming
+
+\*   Logos and Designs
+
+\*   Tone of voice
+
+\*   Brand positioning
+
+\*   Distribution strategies
+
+\*   Print and digital design
+
+\*   Photography
+
+\*   Copywriting
+
+\*   Art direction
+
+\*   Engagement strategies
+
+My commercial filmmaking experience includes:
+
+\*   Research & Discovery
+
+\*   Screenwriting
+
+\*   Casting
+
+\*   Creative Direction
+
+\*   Direction
+
+\*   Direction of Photography
+
+\*   Filming and Interviewing
+
+\*   Coaching non-actors
+
+\*   Selecting and directing music
+
+\*   Video Editing
+
+\*   Color Correction and Color Grading
+
+\*   Compositing
 
 Over the years I had the opportunity to work in a variety of industries including:
 
