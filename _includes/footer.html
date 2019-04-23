@@ -3,7 +3,7 @@
 	<div class="wrap">
 		
 		<!-- related posts -->
-                {% if p in site.related_posts %}
+                {% if page.path contains '_posts' %}
 		<h3>You may also like:</h3>
 		{% for p in site.related_posts %}
                  {{ p.title }}
