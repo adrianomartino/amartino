@@ -6,65 +6,37 @@ description: Personal is the perfect theme for developers, designers and other c
 featured_image: https://res.cloudinary.com/martinobranding/image/upload/v1555965383/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg
 
 ---
-<blockquote>Good branding doesn't exist without good video. Good video content doesn't happen without a brand strategy.&nbsp;</blockquote>
+Good branding doesn't exist without good video. Good video content doesn't happen without a brand strategy.
 
-<p>Over the past 12+ years I spent the first 6 years working on the creative direction of entire projects. In 2012 I made the strategic decision to focus on video productions for brands.</p>
+Over the past 12+ years I spent the first 6 years working on the creative direction of entire projects. In 2012 I made the strategic decision to focus on video productions for brands.
 
-<p>Before shifting my focus towards video I used to work on:</p>
+Before shifting my focus towards video I used to work on:
 
-<ul>
+* Naming
+* Logos and Designs
+* Tone of voice
+* Brand positioning
+* Distribution strategies
+* Print and digital design
+* Photography
+* Copywriting
+* Art direction
+* Engagement strategies
 
-  <li>Naming</li>
+My commercial filmmaking experience includes:
 
-  <li>Logos and Designs</li>
-
-  <li>Tone of voice</li>
-
-  <li>Brand positioning</li>
-
-  <li>Distribution strategies</li>
-
-  <li>Print and digital design</li>
-
-  <li>Photography</li>
-
-  <li>Copywriting</li>
-
-  <li>Art direction</li>
-
-  <li>Engagement strategies</li>
-
-</ul>
-
-<p>My commercial filmmaking experience includes:</p>
-
-<ul>
-
-  <li>Research &amp; Discovery</li>
-
-  <li>Screenwriting</li>
-
-  <li>Casting</li>
-
-  <li>Creative Direction</li>
-
-  <li>Direction</li>
-
-  <li>Direction of Photography</li>
-
-  <li>Filming and Interviewing</li>
-
-  <li>Coaching non-actors</li>
-
-  <li>Selecting and directing music</li>
-
-  <li>Video Editing</li>
-
-  <li>Color Correction and Color Grading</li>
-
-  <li>Compositing</li>
-
-</ul>
+* Research & Discovery
+* Screenwriting
+* Casting
+* Creative Direction
+* Direction
+* Direction of Photography
+* Filming and Interviewing
+* Coaching non-actors
+* Selecting and directing music
+* Video Editing
+* Color Correction and Color Grading
+* Compositing
 
 Over the years I had the opportunity to work in a variety of industries including:
 
