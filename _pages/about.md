@@ -31,8 +31,4 @@ Over the years I had the opportunity to work in a variety of industries includin
 * Dance
 * Wellness
 
-## Get Personal
-
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="/contact" class="button button--large">Get In Touch</a>
