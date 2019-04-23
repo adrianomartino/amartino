@@ -2,8 +2,9 @@
 
 	<div class="wrap">
 		
-		<!-- related posts -->
+		
                 {% if page.path contains '_posts' %}
+		<!-- related posts -->
 		<h3>You may also like:</h3>
 		{% for p in site.related_posts %}
                  {{ p.title }}
