@@ -8,4 +8,4 @@ featured_image: https://res.cloudinary.com/martinobranding/image/upload/v1555876
 ---
 {% include contact-form.html %}
 
-I will reply sooner that you can binge-watch Mad Men.
+I will never share your info with anybody. I will never send you emails without your consent.
