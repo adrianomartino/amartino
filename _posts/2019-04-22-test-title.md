@@ -1,5 +1,5 @@
 ---
-title: " Be aware of the money you put into video. Here are 3 very different options."
+title: Invest smartly in video. Here are 3 very different options.
 subtitle: Full Productions, DYI, or Consulting? What's the best fit for you?
 description: 'Today you can produce effective videos with virtually any budget. How
   do you decide what’s the right budget/effort ratio that best suits your needs? Here
@@ -7,7 +7,7 @@ description: 'Today you can produce effective videos with virtually any budget. 
 featured_image: https://res.cloudinary.com/martinobranding/image/upload/v1555965383/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg
 body: test body
 date: 2019-04-22 22:18:57 +0000
-slug: video-and-money-here-are-3-options
+slug: invest-smartly-in-video
 
 ---
 Today you can produce effective videos with virtually any budget. How do you decide what’s the right budget/effort ratio that best suits your needs?
