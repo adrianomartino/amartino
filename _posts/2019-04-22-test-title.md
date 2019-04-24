@@ -9,101 +9,84 @@ body: test body
 date: 2019-04-22 22:18:57 +0000
 
 ---
-### Full Productions, DYI, or Consulting? What's the best fit for you?
+Today you can produce effective videos with virtually any budget. So how do you decide what’s the right budget/effort ratio for your current needs?
 
-Today you can produce effective videos with virtually any budget. So how do you decide what’s the right budget/effort ratio for your current needs? Here are 3 scenarios that might be useful for you at different times.
+Here are 3 scenarios that might be useful for you at different times.
 
 ### **The Ferrari Buyer**
 
-If you want to buy a Ferrari, you need to have a mechanic to look at it and help you with the selection.
+In this scenario, you hire an established production company. You let them take care of the video and the requirements.
 
-In this scenario, you hire a big production company right off the bat. Not having tested with other videos before, you don't know what works in your case yet. When facing a decision you are not sure about, you make your choice based on “the highest quality”. When your budget is at cap you are forced to pick the least expensive option. This is not an ideal situation. The ideal situation sees you creating requirements based on your goals. The only justifiable instance for this approach is when you are in a time-jam. When timing is more valuable than the budget you would save.
+**This approach will benefit you if**
 
-* You have a solid internal marketing team with commercial video production expertise
-* You're in a time-jam and timing is more valuable than the budget you would save.
-* You don't have budget concerns and spending $90,000 for a video that you haven't tested saves you time otherwise in the grand scheme of things.
+* You have produced high-end video before and know exactly what you need.
+* You have a solid internal marketing team with commercial video production expertise.
+* You have a big launch coming up and timing is more important than the budget you could save otherwise.
+* The foreseen ROI or Brand Lift after the launch of this video content is worth 10x+ what you will spend.
+* You have a clear distribution strategy in place
+* You plan to distribute to a large number of people–in the case of B2C or a B2B SaaS Product. Or to a small high-value audience. Investors, stakeholders, potential partners, and affluent buyers of high-value goods and services.
+
+**You should stay away from this approach if:**
+
+* You haven't tested with other videos before and you don't know what works in your case yet.
+* You don't have a solid internal marketing team with video expertise.
+* Expensive trial and error is not an option.
+* You want to optimize video production costs, but you don't know where to start.
 
 **The Do-It-Yourselfer**
 
-In this scenario, you decide not to spend any “money” in video production. You don't hire an agency or consultant. You don't add the overhead expense of an in-house video communications specialist. You try to create video content by using your internal resources. Each team member uses her knowledge and resources to “make video happen”. Turn on their phone, watch a tutorial or two on good lighting and sound. Edit the video, using whatever software she has at hand. There's a lot of value with this approach: team building, no-cost experimenting. There are also a lot of drawbacks. Depending on your go-to-market strategy, this could be a temporary option to consider. If longer timeframes, and trial and error are not an option, and your team is busy, this is not the ideal solution for you.
+In this scenario, you decide not to spend any hard money on video production. You don't hire an agency or consultant. You don't add the overhead expense of an in-house video communications specialist. You try to create video content by using your internal resources. Your available team members use their intuition and resources to “make video happen”. Turn on their phone, watch a tutorial or two on good lighting and sound. Edit the video, using whatever software they have at hand.
 
-* You have a lot of time at hand
-* You are not concerned about sending the wrong message (meaning you can still rebrand/readjust later)
-* You don't have any money to invest in video but you still 
+**This approach can be a useful exercise if**
 
-**Both of these approaches involve risks. Which one do you choose?**
+* Your product is at very early stages
+* You have time to learn/experiment
+* Brand positioning trial and error is still an option
+* You don't have an identity yet and you are OK with pivoting later
+* You want to test how your team members interact, collaborating on a common goal
 
-The risks of the Splurger approach are:
+**You should stay away from this approach if:**
 
-* Spend money over fancy features, while not sure about the cost/reward ratio.
-* Overlook at critical details that could use more budget and attention.
-
-Can you guess what are the risks of the DIY approach?
-
-There are 5 major risks that are not hard-money related, but that are as critical:
-
-* Long time gap between idea/need and execution. Losing momentum due to the learning curve
-* Unclear timing/distribution plan–video assets sitting on a shelf, losing value
-* Too much time spent–opportunity cost in the specialty areas of the people involved
-* Producing content that doesn’t move any needles
-* Producing content that moves the needle in the wrong direction
-
-Which brings me to the third approach:
+* Longer or undefined time frames are not an option
+* Your distribution plan is unclear
+* You cannot afford losing momentum due to the learning curve
+* You cannot afford the opportunity cost in the specialty areas of the people involved
+* Your team is busy and you need video content in time
+* You don't have a solid marketing plan
+* You plan to distribute to a large audience and you don't have a second chance to make a good first impression
 
 **The informed decision-maker**
 
-The informed decision-maker needs effective video content and understands its value. She decides to add a flexible investment into her video production process.
+In this scenario, you decide to make a flexible investment to produce ad-hoc videos. You hire an on-demand video communications consultant. This consultant has the knowledge and creativity of an industry insider by your side.
 
-This approach can help:
+**This approach will benefit you if:**
 
-* Better understand video production
-* Make more informed decisions
-* Consider different creative solutions for each goal you set
-* Get your team excited about content production
-* Test video content before producing it at scale
-* Understand where to save money
-* Understand when it's important to go the extra mile
+* You have a budget for video, but need every dollar to count.
+* You have a solid product that your audience is underestimating.
+* You have meaningful content and you don't understand why your audience is not engaged with it.
+* You have tried in-house video, but you want better results.
+* You want to raise the value of your company, with cost-effective high quality video assets.
+* You cannot afford to pay the biggest agency in town, but you still need to make a statement.
 
-This method involves hiring an on-demand video communications consultant.
+**You should stay away from this approach if:**
 
-Hiring a video marketer will give you a competitive advantage. It will be like having an industry insider by your side.
+* Your product is at very early stages
+* You don't have a dedicated budget for video
+* You don't have any content or not much to talk about
+* You don't have at least 1 hour per week to learn, participate, and provide feedback.
 
-This specialist could operate in one of the following ways:
+If you are at the right stage, hiring a video consultant is the best decision you can make.
 
-• Independent one-man band that can handle shoots for testing and at a smaller scale
+The right person can help you:
 
-• Owner of a company with a scalable team for larger productions
+* Get your team excited about content production and on the same page
+* Help you make more informed decisions
+* Help you understand what's unnecessary
+* Provide you with several creative solutions, costs, and plans of action.
+* Understand your goals and suggest a course of action
+* Shoot on-brand, cost-effective test videos to do market testing and start increasing engagements
+* Bring and manage a team when you need an extra push
+* Get your team set up for ongoing content production
 
-• Free-range consultant who connects you with the best production agencies. She helps you manage projects and optimize budgets.
-
-Ideally, this consultant owns the technical and creative knowledge to produce effective videos.
-
-I find this approach to be effective in the following scenarios:
-
-* Your company's success is determined by the effectiveness of your videos.
-* You have a budget for video, but you want every dollar to count.
-* You have tried other solutions in the past, without getting the desired results.
-* You are ready to invest in video but want to feel empowered and in control when making important decisions.
-
-**The takeaway**
-
-* The 3 approaches I described above, are just a few of the options you have, but they are enough to give you some context.
-* There's not a number I can give you for "how much is too much money". Video production costs vary by project. You can produce videos for $1,000,000, for $2,500, and for $0. You should choose your budget based on your specific goals.
-* Saving money on video, doesn't mean saving money.
-* Splurging on video doesn't always mean better results.
-
-Video is the best way to show humanity, empathy, and connect with your audience at a deeper level, and at a scale.
-
-This is not only achieved through content selection. 
-
-Execution, editing, colors, tone of voice, artistic choices, music, they all matter. The non-verbal communication in your video plays a critical role. 
-
-These areas are critical, and go beyond a technically acceptable video. Executing on those must be met with undivided attention, and by a creative marketer.
-
-Video is the best way to connect to your audience at scale.
-
-Approach it smartly and you will succeed.
-
-I hope this helps.
-
-Adriano
+  
+And you? At which stage are you? Have you tried producing video yet? What is your approach?
