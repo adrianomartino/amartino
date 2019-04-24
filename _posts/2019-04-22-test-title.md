@@ -89,5 +89,4 @@ The right person can help you:
 * Bring and manage a team when you need an extra push
 * Get your team set up for ongoing content production
 
-  
-And you? At which stage are you? Have you tried producing video yet? What is your approach?
+And you? What is your approach?
