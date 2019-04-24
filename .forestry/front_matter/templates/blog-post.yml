@@ -27,13 +27,10 @@ fields:
   description: Enter Image URL
   config:
     required: true
-- type: textarea
-  name: body
-  label: body
+- name: slug
+  type: text
   config:
-    required: true
-    wysiwyg: true
-    schema:
-      format: markdown
+    required: false
+  label: Slug
 pages:
 - _posts/2019-04-22-test-title.md
