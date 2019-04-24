@@ -7,6 +7,7 @@ description: Today you can produce effective videos with virtually any budget. S
 featured_image: https://res.cloudinary.com/martinobranding/image/upload/v1555965383/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg
 body: test body
 date: 2019-04-22 22:18:57 +0000
+slug: invest-in-video-smartly
 
 ---
 Today you can produce effective videos with virtually any budget. So how do you decide what’s the right budget/effort ratio for your current needs?
