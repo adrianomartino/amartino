@@ -1,5 +1,5 @@
 ---
-title: Invest smartly in video. 3 different approaches to video production.
+title: " Be aware of the money you put into video. Here are 3 very different options."
 subtitle: Full Productions, DYI, or Consulting? What's the best fit for you?
 description: 'Today you can produce effective videos with virtually any budget. How
   do you decide what’s the right budget/effort ratio that best suits your needs? Here
