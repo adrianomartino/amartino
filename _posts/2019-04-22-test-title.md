@@ -17,13 +17,19 @@ Today you can produce effective videos with virtually any budget. So how do you 
 
 If you want to buy a Ferrari, you need to have a mechanic to look at it and help you with the selection.
 
-In this scenario, you hire a big production company right off the bat.
+In this scenario, you hire a big production company right off the bat. Not having tested with other videos before, you don't know what works in your case yet. When facing a decision you are not sure about, you make your choice based on “the highest quality”. When your budget is at cap you are forced to pick the least expensive option. This is not an ideal situation. The ideal situation sees you creating requirements based on your goals. The only justifiable instance for this approach is when you are in a time-jam. When timing is more valuable than the budget you would save.
 
-Not having tested with other videos before, you don't know what works in your case yet. When facing a decision you are not sure about, you make your choice based on “the highest quality”. When your budget is at cap you are forced to pick the least expensive option. This is not an ideal situation. The ideal situation sees you creating requirements based on your goals. The only justifiable instance for this approach is when you are in a time-jam. When timing is more valuable than the budget you would save.
+* You have a solid internal marketing team with commercial video production expertise
+* You're in a time-jam and timing is more valuable than the budget you would save.
+* You don't have budget concerns and spending $90,000 for a video that you haven't tested saves you time otherwise in the grand scheme of things.
 
 **The Do-It-Yourselfer**
 
 In this scenario, you decide not to spend any “money” in video production. You don't hire an agency or consultant. You don't add the overhead expense of an in-house video communications specialist. You try to create video content by using your internal resources. Each team member uses her knowledge and resources to “make video happen”. Turn on their phone, watch a tutorial or two on good lighting and sound. Edit the video, using whatever software she has at hand. There's a lot of value with this approach: team building, no-cost experimenting. There are also a lot of drawbacks. Depending on your go-to-market strategy, this could be a temporary option to consider. If longer timeframes, and trial and error are not an option, and your team is busy, this is not the ideal solution for you.
+
+* You have a lot of time at hand
+* You are not concerned about sending the wrong message (meaning you can still rebrand/readjust later)
+* You don't have any money to invest in video but you still 
 
 **Both of these approaches involve risks. Which one do you choose?**
 
