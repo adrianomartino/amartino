@@ -147,6 +147,8 @@ $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 
 // - - - - - - - - - - Adriano Martino add ons
 
-ul { list-style: inside }
+ul {
+  list-style-position: outside;
+}
 
 
