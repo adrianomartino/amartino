@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: redirect code
+pages:
+- _posts/demo-post.html
