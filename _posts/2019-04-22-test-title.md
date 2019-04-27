@@ -8,10 +8,9 @@ featured_image: https://res.cloudinary.com/martinobranding/image/upload/v1555965
 body: test body
 date: 2019-04-22 22:18:57 +0000
 slug: invest-smartly-in-video
-redirect_from: |2-
-   - /demo-post
-   - /test-title
-
+redirect_from:
+  - /demo-post
+  - /test-title
 ---
 Today you can produce effective videos with virtually any budget. How do you decide what’s the right budget/effort ratio that best suits your needs?
 
