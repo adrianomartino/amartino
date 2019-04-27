@@ -23,7 +23,7 @@ sections:
 upload_dir: https://res.cloudinary.com/adrianomartino/image/upload
 public_path: https://res.cloudinary.com/adrianomartino/image/upload
 front_matter_path: https://res.cloudinary.com/adrianomartino/image/upload
-use_front_matter_path: true
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
