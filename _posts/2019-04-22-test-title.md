@@ -38,7 +38,7 @@ In this scenario, you hire an established production company. You let them take 
 
 In this scenario, you decide not to spend any hard money on video production. You don't hire an agency or consultant. You don't add the overhead expense of an in-house video communications specialist. You try to create video content by using your internal resources. Your available team members use their intuition and resources to “make video happen”. Turn on their phone, watch a tutorial or two on good lighting and sound. Edit the video, using whatever software they have at hand.
 
-**This approach can be a useful exercise if**
+**This approach can be a useful exercise if:**
 
 * Your product is at very early stages
 * You have time to learn/experiment
