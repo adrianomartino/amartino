@@ -1,4 +1,13 @@
 ---
 label: Redirect
 hide_body: true
-fields: []
+fields:
+- name: redirect_code
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: redirect code
