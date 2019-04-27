@@ -18,7 +18,7 @@ Here are 3 scenarios that might be useful for you at different times.
 
 In this scenario, you hire an established production company. You let them take care of the video and the requirements.
 
-**This approach will benefit you if**
+**This approach will benefit you if:**
 
 * You have produced high-end video before and know exactly what you need.
 * You have a solid internal marketing team with commercial video production expertise.
