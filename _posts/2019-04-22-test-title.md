@@ -14,7 +14,7 @@ Today you can produce effective videos with virtually any budget. How do you dec
 
 Here are 3 scenarios that might be useful for you at different times.
 
-### **The Ferrari Buyer.**
+### **The Ferrari Buyer**
 
 In this scenario, you hire an established production company. You let them take care of the video and the requirements.
 
