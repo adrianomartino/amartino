@@ -12,3 +12,5 @@ fields:
   config:
     required: true
   label: slug
+pages:
+- _posts/_Demo Post Redirect.html
