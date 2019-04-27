@@ -1,5 +1,5 @@
 ---
-title: Let's talk about your next project.
+title: Let's talk about your next project
 subtitle: Questions? Curious? Want to say Hi? Drop me a line!
 description: If you are thinking about something awesome. Feel free to drop me a line.
   Even if it's not awesome yet.
