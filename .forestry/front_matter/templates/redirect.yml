@@ -1,4 +1,14 @@
 ---
 label: redirect
 hide_body: true
-fields: []
+fields:
+- name: new-path
+  type: text
+  config:
+    required: true
+  label: new-path
+- name: slug
+  type: text
+  config:
+    required: true
+  label: slug
