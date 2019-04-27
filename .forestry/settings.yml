@@ -20,9 +20,9 @@ sections:
   label: Pages
   create: all
   match: "**/*"
-upload_dir: https://res.cloudinary.com/martinobranding/image/upload
+upload_dir: https://res.cloudinary.com/adrianomartino/image/upload
 public_path: https://res.cloudinary.com/martinobranding/image/upload/v1555965383/adrianomartinocom
-front_matter_path: https://res.cloudinary.com/martinobranding/image/upload/v1555965383/adrianomartinocom
+front_matter_path: from  https://res.cloudinary.com/martinobranding/image/upload/v1555965383/adrianomartinocom
 use_front_matter_path: true
 file_template: ":filename:"
 build:
