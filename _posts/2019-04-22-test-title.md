@@ -7,7 +7,7 @@ featured_image: Adriano_Martino_Video_Marketing_rgg8m2.jpg
 body: test body
 date: 2019-04-22 22:18:57 +0000
 slug: invest-smartly-in-video
-redirect_from: "- demo-post"
+redirect_from: "- /demo-post"
 
 ---
 Today you can produce effective videos with virtually any budget. How do you decide what’s the right budget/effort ratio that best suits your needs?
