@@ -33,14 +33,10 @@ fields:
     required: false
   label: Slug
 - name: redirect_from
-  type: textarea
-  default: ''
+  type: text
   config:
     required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Older urls
-  description: redirect_from
+  label: Older URL's
+  description: add older slugs separated by commas
 pages:
 - _posts/2019-04-22-test-title.md
