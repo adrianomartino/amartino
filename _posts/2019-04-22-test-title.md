@@ -27,7 +27,7 @@ In this scenario, you hire an established production company. You let them take 
 * You have a clear distribution strategy in place
 * You plan to distribute to a large number of people–in the case of B2C or a B2B SaaS Product. Or to a small high-value audience. Investors, stakeholders, potential partners, and affluent buyers of high-value goods and services.
 
-**You should stay away from this approach if:**
+**You should stay away from this approach if**
 
 * You haven't tested with other videos before and you don't know what works in your case yet.
 * You don't have a solid internal marketing team with video expertise.
