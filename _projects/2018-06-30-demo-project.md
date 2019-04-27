@@ -5,6 +5,7 @@ date: 2018-06-30 00:00:00 +0000
 description: 2 years ago, I started my relationship with the Strategic Development
   team at Comcast. I love what we are able to accomplish every day. Read more.
 featured_image: "/images/demo/demo-square.jpg"
+published: false
 
 ---
 ![](/images/demo/demo-landscape.jpg)
