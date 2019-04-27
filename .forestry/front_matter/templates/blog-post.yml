@@ -32,5 +32,15 @@ fields:
   config:
     required: false
   label: Slug
+- name: redirect_from
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Older urls
+  description: redirect_from
 pages:
 - _posts/2019-04-22-test-title.md
