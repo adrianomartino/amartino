@@ -8,13 +8,16 @@ featured_image: https://res.cloudinary.com/martinobranding/image/upload/v1555965
 body: test body
 date: 2019-04-22 22:18:57 +0000
 slug: invest-smartly-in-video
+redirect_from: |2-
+   - /demo-post
+   - /test-title
 
 ---
 Today you can produce effective videos with virtually any budget. How do you decide what’s the right budget/effort ratio that best suits your needs?
 
 Here are 3 scenarios that might be useful for you at different times.
 
-### **The Ferrari Buyer.**
+### **The Ferrari Buyer**
 
 In this scenario, you hire an established production company. You let them take care of the video and the requirements.
 
