@@ -152,7 +152,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: UA-50413509-5
+  analytics_code:
 
   custom_styles: ""
   header_js: ""
