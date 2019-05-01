@@ -151,23 +151,3 @@ ul {
   list-style-position: outside;
   padding:15px;
 }
-
-
-
-// ----- Zurb foundation--- Adriano Add-on
-
-@import "https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.3/css/foundation.min.css";
-
-.simple-subscription-form {
-  background: #0c3e5f;
-  color: #fefefe;
-  padding: 2rem;
-  border-radius: 0;
-}
-
-.simple-subscription-form .button {
-  margin-bottom: 0;
-  border-radius: 0 0 0 0;
-}
-
-
