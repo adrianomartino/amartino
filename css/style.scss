@@ -157,12 +157,6 @@ ul {
 // ----- Zurb foundation--- Adriano Add-on
 
 @import "https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.3/css/foundation.min.css";
- 
-$subscription-form-bg: darken($primary-color, 20%);
-$subscription-form-color: $white;
-$subscription-form-padding: rem-calc(32);
-
-
 
 .simple-subscription-form {
   background: #0c3e5f;
