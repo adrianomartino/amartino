@@ -5,11 +5,11 @@ description: Today you can produce effective videos with any budget. How do you 
   what’s the right budget/effort ratio for you? Here are 3 different approaches
 featured_image: https://res.cloudinary.com/adrianomartino/image/upload/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg
 body: test body
-date: 2019-04-22 22:18:57 +0000
+date: '2019-04-22T22:18:57.000+00:00'
 slug: invest-smartly-in-video
-redirect_from: 
-- /demo-post
-- /test-title
+redirect_from:
+- "/demo-post"
+- "/test-title"
 
 ---
 Today you can produce effective videos with virtually any budget. How do you decide what’s the right budget/effort ratio that best suits your needs?
@@ -57,6 +57,8 @@ In this scenario, you decide not to spend any hard money on video production. Yo
 * Your team is busy and you need video content in time
 * You don't have a solid marketing plan
 * You plan to distribute to a large audience and you don't have a second chance to make a good first impression
+* Your users have an expectation of your brand 
+* You need keep your brand and tone of voice in check
 
 **The informed decision-maker**
 
