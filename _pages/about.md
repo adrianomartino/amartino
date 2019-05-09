@@ -57,6 +57,6 @@ Over the years I had the opportunity to work in a variety of industries includin
 
 I like images that communicate emotions, tell a story, make you think.
 
-<div class="gallery" data-columns="3"> <img src="https://res.cloudinary.com/martinobranding/image/upload/v1555990768/adrianomartinocom/photo_selection/fos7hkcxglae4pxcbvmi.jpg"> <img src="https://res.cloudinary.com/martinobranding/image/upload/v1555990768/adrianomartinocom/photo_selection/fwpbzntkuoqqncbh7z1b.jpg"> <img src="https://res.cloudinary.com/martinobranding/image/upload/v1555990768/adrianomartinocom/photo_selection/vhpcvcinmmrofmlguyqb.jpg"> <img src="https://res.cloudinary.com/martinobranding/image/upload/v1555990768/adrianomartinocom/photo_selection/fpa7q2gkuxxw7k72bhkv.jpg"> </div>
+<div class="gallery" data-columns="3"> <img src="https://res.cloudinary.com/adrianomartinocom/image/upload/adrianomartinocom/photo_selection/fos7hkcxglae4pxcbvmi.jpg"> <img src="https://res.cloudinary.com/adrianomartinocom/image/upload/adrianomartinocom/photo_selection/fwpbzntkuoqqncbh7z1b.jpg"> <img src="https://res.cloudinary.com/adrianomartinocom/image/upload/adrianomartinocom/photo_selection/vhpcvcinmmrofmlguyqb.jpg"> <img src="https://res.cloudinary.com/adrianomartinocom/image/upload/adrianomartinocom/photo_selection/fpa7q2gkuxxw7k72bhkv.jpg"> </div>
 
 <a href="/contact" class="button button--large">Contact Adriano Martino</a>
