@@ -27,11 +27,11 @@ fields:
   description: Enter Image URL
   config:
     required: true
-- name: slug
+- name: permalink
   type: text
   config:
     required: false
-  label: Slug
+  label: Permalink
 - name: redirect_from
   type: text
   config:
