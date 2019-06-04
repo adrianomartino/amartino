@@ -30,7 +30,7 @@ layout: default
 
 		<!-- related posts -->
 		{% for p in site.related_posts %}
-                 {{ p.title }}
+		<a href={{ p.url }}> {{ p.title }}</a>
                 {% endfor %}
 	</div>
 
