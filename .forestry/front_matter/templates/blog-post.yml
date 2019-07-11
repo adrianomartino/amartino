@@ -27,6 +27,12 @@ fields:
   description: Enter Image URL
   config:
     required: true
+- name: thumbnail
+  type: text
+  config:
+    required: false
+  label: Thumbnail
+  description: The Cloudinary thumbnail link
 - name: permalink
   type: text
   config:
