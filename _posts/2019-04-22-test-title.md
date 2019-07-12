@@ -11,6 +11,8 @@ redirect_from:
 - "/demo-post"
 - "/test-title"
 permalink: invest-smartly-in-video
+thumbnail: ''
+comments: 'true'
 
 ---
 Today you can produce effective videos with virtually any budget. How do you decide what’s the right budget/effort ratio that best suits your needs?
