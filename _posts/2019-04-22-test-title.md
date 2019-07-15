@@ -19,7 +19,7 @@ Today you can produce effective videos with virtually any budget. How do you dec
 
 Here are 3 scenarios that might be useful for you at different times.
 
-### **The Ferrari Buyer**
+### **The Ferrari Buyer** 
 
 In this scenario, you hire an established production company. You let them take care of the video and the requirements.
 
@@ -60,7 +60,7 @@ In this scenario, you decide not to spend any hard money on video production. Yo
 * Your team is busy and you need video content in time
 * You don't have a solid marketing plan
 * You plan to distribute to a large audience and you don't have a second chance to make a good first impression
-* Your users have an expectation of your brand 
+* Your users have an expectation of your brand
 * You need keep your brand and tone of voice in check
 
 **The informed decision-maker**
