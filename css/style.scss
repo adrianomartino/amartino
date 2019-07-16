@@ -122,6 +122,42 @@ $footer-logo-width: {{ site.data.settings.footer_settings.logo_width }}px;
 $overlay-opacity: {{ site.data.settings.hero_settings.overlay_opacity }};
 $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 
+//flexbox articles
+
+.relatedpost {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+};
+
+.center { 
+  justify-content: center; 
+};
+
+.postitem {
+  margin: 20px;
+  width: 50%
+};
+
+
+
+@media all and (max-width: 800px) {
+  #postitem {
+    /* When on medium sized screens, we center it by evenly distributing empty space around items */
+    justify-content: space-around;
+  }
+};
+
+/* Small screens */
+@media all and (max-width: 500px) {
+  #postitem {
+    /* On small screens, we are no longer using row direction but column */
+    flex-direction: column;
+  }
+};
+
+//Media query for responsize screens
 
 
 // - - - - - - - - - - Global styles

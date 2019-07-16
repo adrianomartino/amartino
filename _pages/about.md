@@ -3,7 +3,7 @@ title: Video Producer with Marketing Expertise
 subtitle: Woah! It's been 12+ years that I've been helping businesses with a mix of
   branding best practices and creativity. Let's keep it going!
 description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: https://res.cloudinary.com/adrianomartino/image/upload/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg
+featured_image: https://res.cloudinary.com/adrianomartino/image/upload/c_limit,q_60,w_1500/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg
 
 ---
 Good branding doesn't exist without good video. Good video content doesn't happen without a brand strategy.
