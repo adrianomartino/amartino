@@ -63,7 +63,7 @@
 </head>
 
 
-<body class="loading ajax-loading" data-site-url="" data-page-url="/spice-up-your-expert-videos">
+<body class="loading" data-site-url="" data-page-url="/spice-up-your-expert-videos">
 
 
 	<header class="header">
@@ -218,39 +218,50 @@
 <p>And you? How do you produce your expert videos for your organization?</p>
 
 		</article>
-
+	
 		
-
 		<div id="disqus_thread"></div>
-		<script>
-			/**
-			 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-			 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-			/*
-			var disqus_config = function () {
-			this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-			this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-			};
-			*/
-			(function () { // DON'T EDIT BELOW THIS LINE
-				var d = document,
-					s = d.createElement('script');
-				s.src = 'https://adrianomartino-1.disqus.com/embed.js';
-				s.setAttribute('data-timestamp', +new Date());
-				(d.head || d.body).appendChild(s);
-			})();
-		</script>
-		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by
-				Disqus.</a></noscript>
-
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function () { // DON'T EDIT BELOW THIS LINE
+        var d = document,
+            s = d.createElement('script');
+        s.src = 'https://adrianomartino-1.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+    var reset = function (newIdentifier, newUrl, newTitle, newLanguage) {
+        DISQUS.reset({
+            reload: true,
+            config: function () {
+                this.page.identifier = newIdentifier;
+                this.page.url = newUrl;
+                this.page.title = newTitle;
+                this.language = newLanguage;
+            }
+        });
+    };
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by
+        Disqus.</a></noscript>
 		
-
+		
 		<!-- related posts -->
 		
 
 		<ul class="relatedpost center" id="relatedpost">
-			<li class="postitem" id="postitem"><a href= /invest-smartly-in-video> <img src=https://res.cloudinary.com/adrianomartino/image/upload/c_fill,g_xy_center,h_325,q_60,w_650/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg> <h4> Invest smartly in video. Here are 3 very different options. </h4>Full Productions, DYI, or Consulting? What's the best fit for you?</a></li>
-			
+			<li class="postitem" id="postitem"><a href=/invest-smartly-in-video> <img src=https://res.cloudinary.com/adrianomartino/image/upload/c_fill,g_xy_center,h_325,q_60,w_650/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg>
+					<h4> Invest smartly in video. Here are 3 very different options. </h4>Full Productions, DYI, or Consulting? What's the best fit for you?
+				</a></li>
+
 		</ul>
 
 
