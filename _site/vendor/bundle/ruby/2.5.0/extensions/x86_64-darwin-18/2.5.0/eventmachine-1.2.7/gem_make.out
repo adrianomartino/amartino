@@ -1,0 +1,16 @@
+current directory: /Users/adrianomartino/Documents/GitHub/adrianomartino/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/adrianomartino/.rvm/rubies/ruby-2.5.3/bin/ruby -I /Users/adrianomartino/.rvm/rubies/ruby-2.5.3/lib/ruby/site_ruby/2.5.0 -r ./siteconf20190716-80498-2ohs5x.rb extconf.rb
+creating Makefile
+
+current directory: /Users/adrianomartino/Documents/GitHub/adrianomartino/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/adrianomartino/Documents/GitHub/adrianomartino/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/adrianomartino/Documents/GitHub/adrianomartino/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 fastfilereaderext.bundle ./.gem.20190716-80498-1nza8s3
