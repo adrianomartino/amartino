@@ -52,7 +52,8 @@ plugins:
   - jekyll-redirect-from
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/learn/page:num/"
   
 include:
   - CNAME
+  - _redirects

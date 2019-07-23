@@ -67,5 +67,4 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.8.5)
   jekyll-paginate
-  jekyll-redirect-from
   jekyll-sitemap
