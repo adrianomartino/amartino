@@ -1,8 +1,8 @@
 # Redirect with a 301
-/test-title         /invest-smartly-in-video              301
-/demo-post         /invest-smartly-in-video              301
-/blog         /learn             301
-/spice-up-your-expert-videos         /spice-up-your-expert-interview-videos             301
+/test-title /invest-smartly-in-video  301
+/demo-post  /invest-smartly-in-video  301
+/blog /learn  301
+/spice-up-your-expert-videos  /spice-up-your-expert-interview-videos  301
 
 # Redirect with a 302
 # /my-redirect  /              302
