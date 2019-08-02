@@ -33,6 +33,12 @@ fields:
     required: false
   label: Thumbnail
   description: The Cloudinary thumbnail link
+- name: featured_video
+  type: text
+  config:
+    required: false
+  label: Featured Video
+  description: Insert video link here
 - name: permalink
   type: text
   config:
