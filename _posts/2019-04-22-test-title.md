@@ -10,17 +10,18 @@ slug: invest-smartly-in-video
 permalink: invest-smartly-in-video
 thumbnail: https://res.cloudinary.com/adrianomartino/image/upload/c_fill,g_xy_center,h_325,q_60,w_650/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg
 comments: 'true'
+redirect_from: ''
 
 ---
 Today you can produce effective videos with virtually any budget. How do you decide what’s the right budget/effort ratio that best suits your needs?
 
 Here are 3 scenarios that might be useful for you at different times.
 
-### **The Ferrari Buyer** 
+### **The Ferrari Buyer**
 
 In this scenario, you hire an established production company. You let them take care of the video and the requirements.
 
-**This approach will benefit you if:**
+**This approach will benefit you if**
 
 * You have produced high-end video before and know exactly what you need.
 * You have a solid internal marketing team with commercial video production expertise.
