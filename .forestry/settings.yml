@@ -20,8 +20,8 @@ sections:
   label: Pages
   create: all
   match: "**/*"
-upload_dir: adrianomartinocom
-public_path: adrianomartinocom
+upload_dir: https://api.cloudinary.com/v1_1/adrianomartino/adrianomartinocom
+public_path: https://res.cloudinary.com/adrianomartino
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
