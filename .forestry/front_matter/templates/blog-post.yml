@@ -44,13 +44,6 @@ fields:
   config:
     required: false
   label: Permalink
-- name: redirect_from
-  type: text
-  config:
-    required: false
-  label: Older URL's
-  description: add older slugs separated by commas
-  default: none
 - name: comments
   type: text
   config:
