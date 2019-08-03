@@ -49,7 +49,6 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
 
 paginate: 6
 paginate_path: "/learn/page:num/"
