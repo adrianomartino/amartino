@@ -33,6 +33,11 @@ fields:
     required: false
   label: Thumbnail
   description: The Cloudinary thumbnail link
+- name: social_image
+  type: text
+  config:
+    required: false
+  label: Social Image
 - name: featured_video
   type: text
   config:
@@ -51,11 +56,6 @@ fields:
   label: comments
   hidden: false
   default: 'true'
-- name: social_image
-  type: text
-  config:
-    required: false
-  label: Social Image
 pages:
 - _posts/2019-06-04-10-tips-to-spice-up-your-expert-interview-video.html
 - _posts/2019-04-22-test-title.md
