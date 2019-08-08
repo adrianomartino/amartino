@@ -52,5 +52,5 @@ fields:
   hidden: false
   default: 'true'
 pages:
-- _posts/2019-06-04-10-tips-to-spice-up-your-expert-interview-video.html
 - _posts/2019-04-22-test-title.md
+- _posts/2019-06-04-10-tips-to-spice-up-your-expert-interview-video.html
