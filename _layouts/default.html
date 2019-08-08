@@ -27,13 +27,27 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}">
 	<meta name="twitter:description" content="{{ page.description }}">
+	{% if page.featured_video %}
+	<meta name="twitter:player" content="https://yoursite.com/container.html" />
+	<meta name="twitter:player:width" content="480" />
+	<meta name="twitter:player:height" content="480" />
+	{% else page.social_image %}
+	<meta name="twitter:image:src" content="{{ site.url }}{{ page.social_image }}">
+	{% else page.featured_image %}
 	<meta name="twitter:image:src" content="{{ site.url }}{{ page.featured_image }}">
+	{% endif %}
 
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
 	<meta property="og:description" content="{{ page.description }}" />
+	{% if page.featured_video == "/" %}
+	<meta property="og:url" content="{{ site.url }}{{ page.featured_video }}" />
+	{% else page.social_image == "/" %}
+	<meta property="og:image" content="{{ site.url }}{{ page.social_image }}" />
+	{% else page.featured_image == "/" %}
 	<meta property="og:image" content="{{ site.url }}{{ page.featured_image }}" />
-
+	{% endif %}
+	
 	{% if site.data.settings.font_settings.font_embed %}
 	<!-- Font Embed Code -->
 	{{ site.data.settings.font_settings.font_embed }}
@@ -62,6 +76,8 @@
 	<!-- Extra Header JS Code -->
 	{{ site.data.settings.advanced_settings.header_js }}
 	{% endif %}
+	<script src="https://cdn.jwplayer.com/libraries/cXTdksWs.js"></script>
+
 	
 </head>
 
@@ -94,6 +110,7 @@
 	<!-- Javascript Assets -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="/js/personal-min.js"></script>
+	
 	
 
 	{% if site.data.settings.advanced_settings.footer_js %}

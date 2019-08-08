@@ -186,8 +186,9 @@ $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 ul {
   list-style-position: outside;
   padding:15px;
-}
+};
 
 
-.disqus{margin-top:20px}
-.disqus .text-bold{font-size 18px}
+.disqus{margin-top:20px};
+.disqus .text-bold{font-size: 18px};
+

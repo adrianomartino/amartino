@@ -22,15 +22,15 @@ layout: default
 	<div class="wrap">
 
 		<article class="single-post">
-
+				<!-- <div itemscope itemtype="https://schema.org/VideoObject"><meta itemprop="uploadDate" content="Thu Jul 25 2019 12:53:44 GMT-0400 (Eastern Daylight Time)"/><meta itemprop="name" content="132470138"/><meta itemprop="duration" content="P0D" /><meta itemprop="contentUrl" content="https://vimeo.com/132470138"/><script src="https://cdn.jwplayer.com/players/vAOx7dde-cXTdksWs.js"></script></div> -->
 			{{ page.content }}
 
 		</article>
-	
+
 		{% if page.comments %}
 		{% include disqus.html %}
 		{% endif %}
-		
+
 		<!-- related posts -->
 		{% for p in site.related_posts %}
 
@@ -40,8 +40,6 @@ layout: default
 				</a></li>
 
 		</ul>
-
-
 		{% endfor %}
 	</div>
 

@@ -8,9 +8,11 @@ body: test body
 date: '2019-04-22T22:18:57.000+00:00'
 slug: invest-smartly-in-video
 permalink: invest-smartly-in-video
-thumbnail: https://res.cloudinary.com/adrianomartino/image/upload/c_fill,g_xy_center,h_325,q_60,w_650/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg
+thumbnail: 'https://res.cloudinary.com/adrianomartino/image/upload/c_fill,g_xy_center,h_325,q_60,w_650/adrianomartinocom/Adriano_Martino_Video_Marketing_rgg8m2.jpg'
 comments: 'true'
 redirect_from: ''
+social_image: ''
+featured_video: ''
 
 ---
 Today you can produce effective videos with virtually any budget. How do you decide what’s the right budget/effort ratio that best suits your needs?
