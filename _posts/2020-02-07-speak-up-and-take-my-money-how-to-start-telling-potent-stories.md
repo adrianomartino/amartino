@@ -5,8 +5,8 @@ subtitle: There are many ways to communicate, even at work, on a daily basis. He
   something you can start doing now, to keep things entertaining.
 description: Working on a presentation, demo, pitch, internal video that doesn’t have
   enough punch? Here I reveal one of the ways I try to keep things interesting.
-featured_image: https://res.cloudinary.com/adrianomartino/image/upload/v1555990768/adrianomartinocom/photo_selection/c7j2nxiejhhchjxeorrf.jpg
-thumbnail: ''
+featured_image: https://res.cloudinary.com/adrianomartino/image/upload/c_limit,q_60,w_1500/adrianomartinocom/Adriano_Martino_Hey.jpg
+thumbnail: https://res.cloudinary.com/adrianomartino/image/upload/c_fill,g_xy_center,h_325,q_60,w_650/adrianomartinocom/Adriano_Martino_Hey.jpg
 social_image: ''
 featured_video: ''
 
