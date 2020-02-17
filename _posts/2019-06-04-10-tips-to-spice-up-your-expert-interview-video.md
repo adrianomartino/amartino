@@ -1,5 +1,5 @@
 ---
-title: '10+ tips to spice up your expert interview video '
+title: '10+ tips to spice up your industry video content interviews'
 subtitle: Don't let your hard work and true knowledge go unnoticed
 description: Want to talk about yourself and your company, and still look cool? Follow
   these simple tips when you interview an expert and when you are the expert
